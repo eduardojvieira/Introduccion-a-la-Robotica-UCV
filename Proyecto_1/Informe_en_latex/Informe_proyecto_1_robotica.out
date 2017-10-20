@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Introducci\363n}{}% 1
+\BOOKMARK [1][-]{section.2}{El Problema}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Se tiene}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Se pide}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Cinem\341tica Directa}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Algoritmo de Denavit-Hartenberg}{subsection.2.3}% 6
+\BOOKMARK [3][-]{subsubsection.2.3.2}{C\363digo en python}{subsection.2.3}% 7
+\BOOKMARK [2][-]{subsection.2.4}{Cinem\341tica Inversa}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.4.1}{C\363digo en python}{subsection.2.4}% 9
